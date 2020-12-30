@@ -6,8 +6,8 @@ The data analyzed are obtained from the Bruker Ultraflex system with flexControl
 
 ## Files
 
-* script.R
-* functions.R
+* script.R for obtaining the TIC results
+* functions.R for functions called during the analysis
 
 ## Reference Publication
 **Ethan Yang**, Martin Dufresne, Pierre Chaurand, Enhancing ganglioside species detection for MALDI-TOF imaging mass spectrometry in negative reflectron mode,
@@ -16,6 +16,7 @@ The data analyzed are obtained from the Bruker Ultraflex system with flexControl
 ## Contributors 
 
 * Ethan Yang: Wrote 100% of the R codes for exporting and analyzing the IMS data currently available in this repository
+* Martin Dufresne: Mentored Ethan throughout his first graduate study
 * Pierre Chaurand: Provided guidance and outlined the data analysis pipeline; corrected figures
 
 ## Dependencies
